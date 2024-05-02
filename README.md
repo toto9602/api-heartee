@@ -10,4 +10,6 @@
 - Server : Spring boot, Spring, Java
 - Infrastructure : Docker & Docker-compose, AWS
 
-## Running(Local)
+## Running
+### local DB
+> docker compose -f docker-compose.local.yml up
